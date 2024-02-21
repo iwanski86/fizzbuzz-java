@@ -1,3 +1,5 @@
+package com.example.iwanski;
+
 public class CheckNumber {
 
      protected String checkNumber(int number){
